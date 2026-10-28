@@ -2,6 +2,7 @@
   "name": "solophp/image-uploader",
   "type": "library",
   "description": "A simple PHP library for uploading images",
+  "abandoned": true,
   "keywords": ["image","uploading","php"],
   "license": "MIT",
   "authors": [
